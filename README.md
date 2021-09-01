@@ -108,6 +108,8 @@ Contact via slack or email sarah.k.torrence@Vanderbilt.Edu
 
 ### First week (R Module 1: git/GitHub/GitHub Flow)
 
+Slides: https://www.dropbox.com/s/m72jlt1jwgvlgi1/Lecture_1_1_Thurs.pptx?dl=0
+
 Resources: 
 
 GH Flow Overview, https://githubflow.github.io/
@@ -121,6 +123,8 @@ Recording: https://vanderbilt.zoom.us/rec/share/y8lxMbuvyG1JaJHruVvWBrEiLtjbaaa8
 Assignment: https://classroom.github.com/g/DCHjeGL5
 
 ### Second week (R Module 2: tidyverse_intro/grammar/tidy data/pipeline test_1)
+
+Slides: https://www.dropbox.com/s/q3cyl6ngc6qbqs3/Lecture_2_1_Tues.pptx?dl=0
 
 Resources: 
 
