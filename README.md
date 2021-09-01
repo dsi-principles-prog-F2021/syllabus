@@ -24,7 +24,8 @@ If a student must miss class for a few days due to quarantine, they should be tr
 Office hours: (Wed: 3pm-4pm)
 
 I will have one more office hour the day before homework due.
-https://vanderbilt.zoom.us/j/99232020860?pwd=bjdNMmJTT2VHV2kwdXJQUDZQWUY0dz09
+
+https://vanderbilt.zoom.us/j/94532978424?pwd=K0x0eHVIcHVQcjFXY0RWZkwxQTNLQT09
 
 ### Homework Distribution (Yilin to Update)
 
