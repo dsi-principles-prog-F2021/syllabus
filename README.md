@@ -143,6 +143,8 @@ Slides:
 
 Resources: 
 
+covid19.analytics: An R Package to Obtain, Analyze and Visualize Data from the Coronavirus Disease Pandemic: https://arxiv.org/pdf/2009.01091.pdf
+
 assertr (https://ropensci.org/blog/2017/04/11/assertr/, https://github.com/ropensci/assertr, https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html)
 
 additional predictes (see is_* predicates in assertive, https://cran.r-project.org/web/packages/assertive/assertive.pdf, https://bitbucket.org/richierocks/assertive.data/src/master/)
