@@ -125,7 +125,9 @@ Assignment: https://classroom.github.com/g/DCHjeGL5
 
 ### Second week (R Module 2: tidyverse_intro/grammar/tidy data/pipeline test_1)
 
-Slides: https://www.dropbox.com/s/q3cyl6ngc6qbqs3/Lecture_2_1_Tues.pptx?dl=0
+Slides: 
+https://www.dropbox.com/s/q3cyl6ngc6qbqs3/Lecture_2_1_Tues.pptx?dl=0
+https://www.dropbox.com/s/tvdeafqfjw5pmaq/Lecture_2_2_Thurs.pptx?dl=0
 
 Resources: 
 
@@ -136,6 +138,8 @@ Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/de
 Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)
 
 ### Third week (R Module 3: pipeline test_2/assertr/relational data)
+Slides: 
+
 
 Resources: 
 
@@ -146,6 +150,8 @@ additional predictes (see is_* predicates in assertive, https://cran.r-project.o
 Relational data (https://r4ds.had.co.nz/relational-data.html)
 
 ### Fourth week (R Module 4: Functions and Tidy Data)
+Slides: 
+
 
 Resources: 
 
@@ -156,6 +162,8 @@ Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/de
 Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
 ### Fifth week (R Module 5: Vectors and Functional Programming)
+Slides: 
+
 
 Resources: 
 
