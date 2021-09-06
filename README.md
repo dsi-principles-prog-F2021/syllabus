@@ -137,9 +137,8 @@ Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/de
 
 Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assertr.html, https://github.com/ropensci/assertr)
 
-### Third week (R Module 3: pipeline test_2/assertr/relational data)
+### Third week (R Module 3: pipeline test_2/assertr)
 Slides: 
-
 
 Resources: 
 
@@ -149,25 +148,24 @@ assertr (https://ropensci.org/blog/2017/04/11/assertr/, https://github.com/ropen
 
 additional predictes (see is_* predicates in assertive, https://cran.r-project.org/web/packages/assertive/assertive.pdf, https://bitbucket.org/richierocks/assertive.data/src/master/)
 
-Relational data (https://r4ds.had.co.nz/relational-data.html)
-
-### Fourth week (R Module 4: Functions and Tidy Data)
+### Fourth week (R Module 4: Tidy Data and Relational Data)
 Slides: 
 
 
 Resources: 
-
-Functions (https://r4ds.had.co.nz/functions.html, http://adv-r.had.co.nz/Style.html) 
 
 Tidy data (https://r4ds.had.co.nz/tidy-data.html, https://tidyr.tidyverse.org/dev/articles/pivot.html)
 
 Tidy data and the new tidyr (https://cran.r-project.org/web/packages/tidyr/index.html, https://tidyr.tidyverse.org/articles/pivot.html, https://vita.had.co.nz/papers/tidy-data.pdf)
 
-### Fifth week (R Module 5: Vectors and Functional Programming)
+Relational data (https://r4ds.had.co.nz/relational-data.html)
+
+### Fifth week (R Module 5: Vectors, Functions, and Functional Programming)
 Slides: 
 
 
 Resources: 
+Functions (https://r4ds.had.co.nz/functions.html, http://adv-r.had.co.nz/Style.html) 
 
 Vectors (https://r4ds.had.co.nz/vectors.html)
 
