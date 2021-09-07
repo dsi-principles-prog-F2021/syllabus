@@ -101,7 +101,7 @@ Contact via slack or email weiqing.huang@vanderbilt.edu
 
 Office hours: (Mon: 10:30am-11am)
 
-Zoom link for office hours: https://vanderbilt.zoom.us/j/94403925505?pwd=LytpSWJZZFJpRGJwcDlwTHhIckNndz09&from=addon 
+Zoom link for Sarah's office hours: https://vanderbilt.zoom.us/j/94403925505?pwd=LytpSWJZZFJpRGJwcDlwTHhIckNndz09&from=addon 
 
 Contact via slack or email sarah.k.torrence@Vanderbilt.Edu
 
