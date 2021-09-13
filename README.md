@@ -141,6 +141,9 @@ Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assert
 Slides: 
 
 Resources: 
+https://www.dropbox.com/s/e019gqmyikesagh/Lecture_3_1_Tues.pptx?dl=0
+
+https://www.dropbox.com/s/684k4cuaprkn7sy/Lecture_3_2_Thur.pptx?dl=0
 
 covid19.analytics: An R Package to Obtain, Analyze and Visualize Data from the Coronavirus Disease Pandemic: https://arxiv.org/pdf/2009.01091.pdf
 
