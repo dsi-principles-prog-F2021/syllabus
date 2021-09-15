@@ -25,7 +25,7 @@ Office hours: (Wed: 3pm-4pm)
 
 I will have one more office hour the day before homework due.
 
-https://vanderbilt.zoom.us/j/94011051069?pwd=ODJoNy9SWi9Zc3VIT2VUYXB0Y1BiQT09
+https://vanderbilt.zoom.us/j/92897450397?pwd=bHFoL201TmMzY041MmtMTGxKRUozdz09
 
 ### Homework Distribution (Yilin to Update)
 
