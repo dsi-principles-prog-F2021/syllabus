@@ -139,6 +139,8 @@ Pipeline tests (https://cran.r-project.org/web/packages/assertr/vignettes/assert
 
 ### Third week (R Module 3: pipeline test_2/assertr)
 Slides: 
+https://www.dropbox.com/s/e019gqmyikesagh/Lecture_3_1_Tues.pptx?dl=0
+https://www.dropbox.com/s/684k4cuaprkn7sy/Lecture_3_2_Thur.pptx?dl=0
 
 Resources: 
 https://www.dropbox.com/s/e019gqmyikesagh/Lecture_3_1_Tues.pptx?dl=0
@@ -153,7 +155,8 @@ additional predictes (see is_* predicates in assertive, https://cran.r-project.o
 
 ### Fourth week (R Module 4: Tidy Data and Relational Data)
 Slides: 
-
+https://www.dropbox.com/s/ar9zsrpvsown366/Lecture_4_1_Tues.pptx?dl=0
+https://www.dropbox.com/s/owr6ct7szx1ewrq/Lecture_4_2_Thurs.pptx?dl=0
 
 Resources: 
 
@@ -165,7 +168,7 @@ Relational data (https://r4ds.had.co.nz/relational-data.html)
 
 ### Fifth week (R Module 5: Vectors, Functions, and Functional Programming)
 Slides: 
-
+https://www.dropbox.com/s/boozf59d23tetzw/Lecture_5_1_Tues.pptx?dl=0
 
 Resources: 
 Functions (https://r4ds.had.co.nz/functions.html, http://adv-r.had.co.nz/Style.html) 
