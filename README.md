@@ -169,8 +169,18 @@ Relational data (https://r4ds.had.co.nz/relational-data.html)
 ### Fifth week (R Module 5: Vectors, Functions, and Functional Programming)
 Slides: 
 https://www.dropbox.com/s/boozf59d23tetzw/Lecture_5_1_Tues.pptx?dl=0
+https://www.dropbox.com/s/rvpiqmxbonbv3rc/Lecture_5_2_Thurs.pptx?dl=0
 
 Resources: 
+
+Relational data (https://r4ds.had.co.nz/relational-data.html)
+
+### Sixth week (R Module 6: Datetime/Strings/Regular expressions)
+Slides: 
+
+
+Resources:
+
 Functions (https://r4ds.had.co.nz/functions.html, http://adv-r.had.co.nz/Style.html) 
 
 Vectors (https://r4ds.had.co.nz/vectors.html)
@@ -179,9 +189,9 @@ Iteration & functional programming (https://r4ds.had.co.nz/iteration.html)
 
 Functional programming with map (https://r4ds.had.co.nz/iteration.html)
 
-### Sixth week (R Module 6: Datetime/Strings/Regular expressions)
+### Seventh week 
+Slides: 
 
-Resources:
 
 Datetime (https://r4ds.had.co.nz/dates-and-times.html)
 
@@ -191,7 +201,7 @@ Regular expressions (https://r4ds.had.co.nz/strings.html, https://github.com/Ver
 
 Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/programming.html, but note that rlang curly-curly https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/ simplifies writing functions in tidyverse)
 
-### Seventh week (By Dr. Spencer-Smith, ACCRE/Midterm/Fall Break)
+### By Dr. Spencer-Smith, ACCRE/Midterm/Fall Break)
 
 ### Eighth week (Python Module 1)
 - Thinking Pythonically ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb))
