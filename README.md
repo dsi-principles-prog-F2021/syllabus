@@ -29,11 +29,11 @@ https://vanderbilt.zoom.us/j/92897450397?pwd=bHFoL201TmMzY041MmtMTGxKRUozdz09
 
 ### Homework Distribution (Yilin to Update)
 
-Leave Blank For Now
+https://classroom.github.com/a/DcXtxVWc
 
 ### Homework Deadline (Yilin to Update)
 
-Leave Blank For Now
+10/6
 
 ## Books/References (all are available online)
 
