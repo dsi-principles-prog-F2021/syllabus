@@ -177,7 +177,8 @@ Relational data (https://r4ds.had.co.nz/relational-data.html)
 
 ### Sixth week (R Module 6: Datetime/Strings/Regular expressions)
 Slides: 
-
+https://www.dropbox.com/s/3dob28x5g1l5x9m/Lecture_6_1_Tues.pptx?dl=0
+https://www.dropbox.com/s/46kslarmfg1u0j4/Lecture_6_1_Thurs.pptx?dl=0
 
 Resources:
 
