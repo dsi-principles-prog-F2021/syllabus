@@ -27,13 +27,14 @@ I will have one more office hour the day before homework due.
 
 https://vanderbilt.zoom.us/j/92897450397?pwd=bHFoL201TmMzY041MmtMTGxKRUozdz09
 
-### Homework Distribution (Yilin to Update)
+### Midterm Distribution 
 
-https://classroom.github.com/a/DcXtxVWc
+https://classroom.github.com/a/71Jd1nfA
 
-### Homework Deadline (Yilin to Update)
+### Midterm Deadline 
 
-10/6
+Issues completed: 10/20/2021 by 11:59 pm.
+Pull request created: 10/24/2021 by 11:59 pm.
 
 ## Books/References (all are available online)
 
