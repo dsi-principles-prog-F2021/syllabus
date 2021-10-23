@@ -206,6 +206,10 @@ Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/program
 ### By Dr. Spencer-Smith, ACCRE/Midterm/Fall Break)
 
 ### Eighth week (Python Module 1)
+Slides from Tuesday:
+https://www.dropbox.com/s/vu94b5ufd2tl43w/Module-8-Tuesday.pptx?dl=0
+Slides from Thursday:
+https://www.dropbox.com/s/0p46amn29f1aepj/Lecture_8_2_Thurs.pptx?dl=0
 - Thinking Pythonically ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb))
 - Jupyter notebooks ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/01-How-to-Run-Python-Code.ipynb), [Detailed overview](https://github.com/ipython/ipython-in-depth) )
 - [Basic syntax](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/02-Basic-Python-Syntax.ipynb) 
