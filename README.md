@@ -207,7 +207,7 @@ Writing functions in the tidyverse (https://dplyr.tidyverse.org/articles/program
 
 ### Eighth week (Python Module 1)
 - Thinking Pythonically ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb))
-- Jupyter notebooks ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/01-How-to-Run-Python-Code.ipynb), [Detailed overview](https://hub.gke.mybinder.org/user/ipython-ipython-in-depth-fhki5vmr/notebooks/binder/Index.ipynb) )
+- Jupyter notebooks ([Intro](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/01-How-to-Run-Python-Code.ipynb), [Detailed overview](https://github.com/ipython/ipython-in-depth) )
 - [Basic syntax](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/02-Basic-Python-Syntax.ipynb) 
 - [Variables](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/03-Semantics-Variables.ipynb)
 - [Operators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/04-Semantics-Operators.ipynb)
