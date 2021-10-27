@@ -225,6 +225,8 @@ https://www.dropbox.com/s/0p46amn29f1aepj/Lecture_8_2_Thurs.pptx?dl=0
 - [Errors and exceptions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb)
 - [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 
+Assignment 7: https://classroom.github.com/a/JRqdbsDI
+
 ### Tenth week (Python Module 3)
 - [List comprehensions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/11-List-Comprehensions.ipynb)
 - [Generators](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/12-Generators.ipynb)
