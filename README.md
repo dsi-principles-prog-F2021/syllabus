@@ -236,6 +236,8 @@ Assignment 7: https://classroom.github.com/a/JRqdbsDI
 - Indexing: [boolean indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb), [array slicing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
 - Intro to Pandas: [motivation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb) and [overview](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 
+Assignment 8: https://classroom.github.com/a/rHvK_XA2
+
 ### Eleventh week (Python Module 4)
 - [Pandas data types](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
 - [Data indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
