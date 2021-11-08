@@ -218,6 +218,10 @@ https://www.dropbox.com/s/0p46amn29f1aepj/Lecture_8_2_Thurs.pptx?dl=0
 - [Built-in types](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/05-Built-in-Scalar-Types.ipynb)
 
 ### Ninth week (Python Module 2)
+Slides from Tuesday:
+https://www.dropbox.com/s/z72npw9jxn9h6ls/Lecture_9_1_Tues.pptx?dl=0
+Slides from Thursday:
+https://www.dropbox.com/s/z3fdk471p14998g/Lecture_9_2_Thurs.pptx?dl=0
 - [Built-in data structures](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/06-Built-in-Data-Structures.ipynb)
 - [Flow statements](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb)
 - [Debugging](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
@@ -228,6 +232,10 @@ https://www.dropbox.com/s/0p46amn29f1aepj/Lecture_8_2_Thurs.pptx?dl=0
 Assignment 7: https://classroom.github.com/a/JRqdbsDI
 
 ### Tenth week (Python Module 3)
+Slides from Tuesday:
+https://www.dropbox.com/s/p7d2jwe33hwsh1q/Lecture_10_1_Tues.pptx?dl=0
+Slides from Thursday:
+https://www.dropbox.com/s/mnwvs1voqjfro4t/Lecture_10_2_Thurs.pptx?dl=0
 - [List comprehensions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/11-List-Comprehensions.ipynb)
 - [Generators](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/12-Generators.ipynb)
 - [Strings and regular expressions](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/14-Strings-and-Regular-Expressions.ipynb)
