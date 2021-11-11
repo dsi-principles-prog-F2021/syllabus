@@ -252,6 +252,8 @@ Assignment 8: https://classroom.github.com/a/rHvK_XA2
 - [Operations in Pandas](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
 - [Missing values](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
 
+Assignment 9: https://classroom.github.com/a/3j3c5vjs
+
 ### Twelfth week (Python Module 5)
 - [Joins](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.07-Merge-and-Join.ipynb)
 - [Concatenating](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
