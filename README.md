@@ -230,6 +230,7 @@ https://www.dropbox.com/s/z3fdk471p14998g/Lecture_9_2_Thurs.pptx?dl=0
 - [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 
 Assignment 7: https://classroom.github.com/a/JRqdbsDI
+Assignment 7 keys: https://github.com/dsi-principles-prog-F2021/assignment-7/blob/main/Assignment-7-keys.ipynb
 
 ### Tenth week (Python Module 3)
 Slides from Tuesday:
