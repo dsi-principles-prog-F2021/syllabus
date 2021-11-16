@@ -224,10 +224,6 @@ Slides from Thursday:
 https://www.dropbox.com/s/z3fdk471p14998g/Lecture_9_2_Thurs.pptx?dl=0
 - [Built-in data structures](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/06-Built-in-Data-Structures.ipynb)
 - [Flow statements](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb)
-- [Debugging](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
-- [Functions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/08-Defining-Functions.ipynb)
-- [Errors and exceptions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb)
-- [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 
 Assignment 7: https://classroom.github.com/a/JRqdbsDI
 Assignment 7 keys: https://github.com/dsi-principles-prog-F2021/assignment-7/blob/main/Assignment-7-keys.ipynb
@@ -248,14 +244,22 @@ https://www.dropbox.com/s/mnwvs1voqjfro4t/Lecture_10_2_Thurs.pptx?dl=0
 Assignment 8: https://classroom.github.com/a/rHvK_XA2
 
 ### Eleventh week (Python Module 4)
+Slides from Tuesday:
+https://www.dropbox.com/s/288t10qq4eo2wzi/Lecture_11_1_Tues.pptx?dl=0
+Slides from Thursday:
+https://www.dropbox.com/s/414982e8p2yja8p/Lecture_11_2_Thurs.pptx?dl=0
+
+- [Debugging](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
+- [Functions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/08-Defining-Functions.ipynb)
+- [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
+Assignment 9: https://classroom.github.com/a/3j3c5vjs
+### Twelfth week (Python Module 5)
+
+- [Errors and exceptions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb)
 - [Pandas data types](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
 - [Data indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
 - [Operations in Pandas](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
 - [Missing values](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
-
-Assignment 9: https://classroom.github.com/a/3j3c5vjs
-
-### Twelfth week (Python Module 5)
 - [Joins](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.07-Merge-and-Join.ipynb)
 - [Concatenating](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
 - [Grouping](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
