@@ -226,11 +226,13 @@ https://www.dropbox.com/s/z3fdk471p14998g/Lecture_9_2_Thurs.pptx?dl=0
 - [Flow statements](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb)
 
 Assignment 7: https://classroom.github.com/a/JRqdbsDI
+
 Assignment 7 keys: https://github.com/dsi-principles-prog-F2021/assignment-7/blob/main/Assignment-7-keys.ipynb
 
 ### Tenth week (Python Module 3)
 Slides from Tuesday:
 https://www.dropbox.com/s/p7d2jwe33hwsh1q/Lecture_10_1_Tues.pptx?dl=0
+
 Slides from Thursday:
 https://www.dropbox.com/s/mnwvs1voqjfro4t/Lecture_10_2_Thurs.pptx?dl=0
 - [List comprehensions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/11-List-Comprehensions.ipynb)
@@ -246,12 +248,14 @@ Assignment 8: https://classroom.github.com/a/rHvK_XA2
 ### Eleventh week (Python Module 4)
 Slides from Tuesday:
 https://www.dropbox.com/s/288t10qq4eo2wzi/Lecture_11_1_Tues.pptx?dl=0
+
 Slides from Thursday:
 https://www.dropbox.com/s/414982e8p2yja8p/Lecture_11_2_Thurs.pptx?dl=0
 
 - [Debugging](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
 - [Functions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/08-Defining-Functions.ipynb)
 - [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
+- 
 Assignment 9: https://classroom.github.com/a/3j3c5vjs
 ### Twelfth week (Python Module 5)
 
