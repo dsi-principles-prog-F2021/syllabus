@@ -268,6 +268,9 @@ Assignment 9: https://classroom.github.com/a/3j3c5vjs
 - [Concatenating](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
 - [Grouping](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
 
+Assignment 10: https://classroom.github.com/a/yrgcSrGy
+
+Team assignment: https://docs.google.com/spreadsheets/d/1OmHvyWWdpSabJOoLh94gpTvlP7iGT7VaZjsWwkP5m-Y/edit?usp=sharing
 ### Thirteenth week (Python Module 6)
 - [Hierarchical indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
 - [Pivoting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
