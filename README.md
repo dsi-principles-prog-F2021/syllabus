@@ -258,6 +258,11 @@ https://www.dropbox.com/s/414982e8p2yja8p/Lecture_11_2_Thurs.pptx?dl=0
 - 
 Assignment 9: https://classroom.github.com/a/3j3c5vjs
 ### Twelfth week (Python Module 5)
+Slides from Tuesday:
+https://www.dropbox.com/s/czrfselbhz3j2oo/Lecture_12_1_Tues.pptx?dl=0
+
+Slides from Thursday:
+https://www.dropbox.com/s/x9goy3huxeotdgy/Lecture_12_2_Thurs.pptx?dl=0
 
 - [Errors and exceptions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb)
 - [Pandas data types](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
