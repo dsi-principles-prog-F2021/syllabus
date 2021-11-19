@@ -245,6 +245,8 @@ https://www.dropbox.com/s/mnwvs1voqjfro4t/Lecture_10_2_Thurs.pptx?dl=0
 
 Assignment 8: https://classroom.github.com/a/rHvK_XA2
 
+Assignment 8 keys: https://github.com/dsi-principles-prog-F2021/assignment-8/blob/main/Assignment-8-Keys.ipynb
+
 ### Eleventh week (Python Module 4)
 Slides from Tuesday:
 https://www.dropbox.com/s/288t10qq4eo2wzi/Lecture_11_1_Tues.pptx?dl=0
