@@ -259,6 +259,9 @@ https://www.dropbox.com/s/414982e8p2yja8p/Lecture_11_2_Thurs.pptx?dl=0
 - [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 - 
 Assignment 9: https://classroom.github.com/a/3j3c5vjs
+
+Assignment 9 keys: https://github.com/dsi-principles-prog-F2021/assignment-9/blob/main/Assignment-9-keys.ipynb
+
 ### Twelfth week (Python Module 5)
 Slides from Tuesday:
 https://www.dropbox.com/s/czrfselbhz3j2oo/Lecture_12_1_Tues.pptx?dl=0
