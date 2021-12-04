@@ -282,6 +282,12 @@ Assignment 10: https://classroom.github.com/a/yrgcSrGy
 
 Team assignment: https://docs.google.com/spreadsheets/d/1OmHvyWWdpSabJOoLh94gpTvlP7iGT7VaZjsWwkP5m-Y/edit?usp=sharing
 ### Thirteenth week (Python Module 6)
+Slides from Tuesday:
+https://www.dropbox.com/s/daun4dqh8g2qt99/Lecture_13_1_Tues.pptx?dl=0
+
+Slides from Thursday:
+https://www.dropbox.com/s/rah8io48g8ot0mp/Lecture_13_2_Thurs.pptx?dl=0
+
 - [Hierarchical indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
 - [Pivoting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
 
