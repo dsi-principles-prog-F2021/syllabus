@@ -281,6 +281,8 @@ https://www.dropbox.com/s/x9goy3huxeotdgy/Lecture_12_2_Thurs.pptx?dl=0
 Assignment 10: https://classroom.github.com/a/yrgcSrGy
 
 Team assignment: https://docs.google.com/spreadsheets/d/1OmHvyWWdpSabJOoLh94gpTvlP7iGT7VaZjsWwkP5m-Y/edit?usp=sharing
+
+Assignment 10 keys: https://github.com/dsi-principles-prog-F2021/assignment-10
 ### Thirteenth week (Python Module 6)
 Slides from Tuesday:
 https://www.dropbox.com/s/daun4dqh8g2qt99/Lecture_13_1_Tues.pptx?dl=0
@@ -290,6 +292,8 @@ https://www.dropbox.com/s/rah8io48g8ot0mp/Lecture_13_2_Thurs.pptx?dl=0
 
 - [Hierarchical indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
 - [Pivoting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
+
+Assignment 11: https://classroom.github.com/a/m2QEAXZn 
 
 ### Fourteenth week (Python Module 7/Final project)
 - Object-oriented Python
