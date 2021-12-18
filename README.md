@@ -295,6 +295,8 @@ https://www.dropbox.com/s/rah8io48g8ot0mp/Lecture_13_2_Thurs.pptx?dl=0
 
 Assignment 11: https://classroom.github.com/a/m2QEAXZn 
 
+Assignment 11 keys: https://github.com/dsi-principles-prog-F2021/assignment-11/blob/main/Assignment-11-keys.ipynb
+
 ### Fourteenth week (Python Module 7/Final project)
 - Object-oriented Python
 - [Modules and packages](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/13-Modules-and-Packages.ipynb)
